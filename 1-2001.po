@@ -1992,9 +1992,9 @@ msgid ""
 "Tailors enhanced clothing items for Duplicants.\n"
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "Duplikanci nie będą tworzyć, chyba że receptury są w kolejce."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME"
 msgid "Textile Factory"
-msgstr ""
+msgstr "Fabryka tekstyliów"
